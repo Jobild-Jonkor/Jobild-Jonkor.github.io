@@ -146,6 +146,7 @@
 .u-section-2-1 .u-group-1 {
   min-height: 329px;
   background-image: none;
+  height: auto;
   margin-top: 85px;
   margin-bottom: 23px;
 }
@@ -236,6 +237,10 @@
 
   .u-section-2-1 .u-countdown-label-6 {
     font-family: "Open Sans", sans-serif;
+  }
+
+  .u-section-2-1 .u-group-1 {
+    height: auto;
   }
 }
 
